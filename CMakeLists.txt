@@ -18,3 +18,6 @@ add_executable(ServerFork ${SOURCE_FILES})
 
 set(SOURCE_FILES ServerSelect.cpp)
 add_executable(ServerSelect ${SOURCE_FILES})
+
+set(SOURCE_FILES ClientNew.cpp)
+add_executable(ClientNew ${SOURCE_FILES})

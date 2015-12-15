@@ -1,4 +1,4 @@
-all:
+raw:
 		gcc -std=c++14 -o SenderRaw  SenderRaw.cpp
 		sudo ./SenderRaw
 
